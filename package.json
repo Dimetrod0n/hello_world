@@ -1,0 +1,10 @@
+{
+    "name": "myapp",
+    "description": "my first application in azure",
+    "version": "0.0.1",
+    "private": true,
+    "author": "Dimetrod0n",
+    "scripts": {
+        "start": "node app.js"
+    }
+}
