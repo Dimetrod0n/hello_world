@@ -1,7 +1,7 @@
 var http = require("http");
 http.createServer(function(request,responce){
 		
-	responce.end("Test2");
+	responce.end("Test work");
 	
 });
 
